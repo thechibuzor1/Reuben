@@ -1,4 +1,5 @@
 {
+  "displayName": "Reuben goes to the gym",
   "expo": {
     "name": "Reuben",
     "slug": "Reuben",
@@ -24,7 +25,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.downbadbuzor.Reuben"
     },
     "web": {
       "favicon": "./assets/favicon.png"
