@@ -13,7 +13,7 @@ const Splash = ({ navigation }) => {
     setTimeout(() => {
       setAnimating(false);
       navigation.navigate("onboard");
-    }, 4500);
+    }, 2500);
   }, []);
   return (
     <View style={styles.container}>
