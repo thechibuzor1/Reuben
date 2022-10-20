@@ -5,10 +5,15 @@
     "slug": "Reuben",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/reuben.jpg",
+    "icon": "./assets/octocat.png",
     "userInterfaceStyle": "light",
     "updates": {
       "fallbackToCacheTimeout": 0
+    },
+    "splash": {
+      "image": "./assets/octocat.png",
+     "backgroundColor": "#FFFFFF",
+     "resizeMode": "cover"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -18,13 +23,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/reuben.jpg",
+        "foregroundImage": "./assets/octocat.png",
         "backgroundColor": "#FFFFFF"
       },
       "package": "com.downbadbuzor.Reuben"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fb9b2418-907d-413e-b6c7-5cb331de2ff2"
+      }
     }
   }
 }
