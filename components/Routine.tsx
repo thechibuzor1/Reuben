@@ -9,11 +9,20 @@ import {
 import React from "react";
 import { ThursdayWorkouts } from "../data";
 
-const Routine = ({ data }) => {
+const Routine = ({ data, navigation }) => {
   return (
     <View>
       {data.map((item, index) => (
-        <View key={index} style={styles.container}>
+        <TouchableOpacity
+          onPress={() =>
+            navigation.navigate("Info", {
+              workout: item,
+            })
+          }
+          key={index}
+          style={styles.container}
+          activeOpacity={0.8}
+        >
           <Image style={styles.img} source={{ uri: item.image }} />
           <View style={styles.info}>
             <Text style={styles.header}>{item.name}</Text>
@@ -25,7 +34,7 @@ const Routine = ({ data }) => {
               <Text style={styles.btn}>Reps: {item.reps}</Text>
             </View>
           </View>
-        </View>
+        </TouchableOpacity>
       ))}
     </View>
   );
@@ -46,7 +55,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontFamily: "normal",
     fontStyle: "normal",
-    fontWeight: "800",
+    fontWeight: "700",
   },
   img: {
     height: "100%",

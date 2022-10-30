@@ -35,6 +35,15 @@
       "eas": {
         "projectId": "fb9b2418-907d-413e-b6c7-5cb331de2ff2"
       }
-    }
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/octocat.png",
+          "color": "#ffffff"
+        }
+      ]
+    ]
   }
 }

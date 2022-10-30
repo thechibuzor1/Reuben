@@ -19,7 +19,7 @@ export const MondayWorkouts = [
     description: "Lightweight flat bench press",
     image:
       "https://media.istockphoto.com/photos/man-with-a-gray-cutoff-bench-pressing-picture-id185320654?k=20&m=185320654&s=612x612&w=0&h=BLD3BAOmBCJKOt5NFxCM-SnZQbgZE2DXoSyGt8MG3Ho=",
-    tutorial: "https://www.youtube.com/watch?v=gRVjAtPip0Y",
+    tutorial: "gRVjAtPip0Y",
   },
   {
     id: 3,
@@ -30,7 +30,7 @@ export const MondayWorkouts = [
     description: "Lightweight Inclined bench press (Highest Inclination)",
     image:
       "https://fitnessvolt.com/wp-content/uploads/2022/09/average-man-incline-bench-press-750x529.jpg",
-    tutorial: "https://www.youtube.com/watch?v=SrqOu55lrYU",
+    tutorial: "SrqOu55lrYU",
   },
   {
     id: 4,
@@ -53,7 +53,7 @@ export const MondayWorkouts = [
       "Second-Highest Inclined dumbbell press (There are 4 Levels on the bench)",
     image:
       "https://img.freepik.com/premium-photo/handsome-young-man-doing-dumbbell-incline-bench-press-workout-gym_600776-12463.jpg?w=2000",
-    tutorial: "https://www.youtube.com/watch?v=0G2_XV7slIg",
+    tutorial: "0G2_XV7slIg",
   },
 
   {
@@ -66,7 +66,7 @@ export const MondayWorkouts = [
       "Third-Highest Inclined dumbbell press (There are 4 Levels on the bench)",
     image:
       "https://img.freepik.com/premium-photo/handsome-young-man-doing-dumbbell-incline-bench-press-workout-gym_600776-12463.jpg?w=2000",
-    tutorial: "https://www.youtube.com/watch?v=0G2_XV7slIg",
+    tutorial: "0G2_XV7slIg",
   },
 
   {
@@ -79,7 +79,7 @@ export const MondayWorkouts = [
     image:
       "https://hortonbarbell.com/wp-content/uploads/2022/06/DB-bench-press.png",
 
-    tutorial: "https://www.youtube.com/watch?v=VmB1G1K7v94",
+    tutorial: "VmB1G1K7v94",
   },
 ];
 export const TuesdayWorkouts = [
@@ -92,7 +92,7 @@ export const TuesdayWorkouts = [
     description: "Standing Shoulder Press",
     image:
       "https://cdn.shopify.com/s/files/1/1876/4703/articles/shutterstock_504909754_1000x.jpg?v=1636556759",
-    tutorial: "https://www.youtube.com/watch?v=2yjwXTZQDDI",
+    tutorial: "2yjwXTZQDDI",
   },
   {
     id: 2,
@@ -103,7 +103,7 @@ export const TuesdayWorkouts = [
     description: "Standing dumbbell Side lateral raise",
     image:
       "https://gymsozluk.com/blogg/wp-content/uploads/2021/10/lateral-raise.jpg",
-    tutorial: "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+    tutorial: "3VcKaXpzqRo",
   },
   {
     id: 3,
@@ -115,7 +115,7 @@ export const TuesdayWorkouts = [
     image:
       "https://www.muscleandfitness.com/wp-content/uploads/2019/06/1109-Seated-Alternating-Dumbbell-Front-Raise.jpg?quality=86&strip=all",
 
-    tutorial: "youtube.com/watch?v=-t7fuZ0KhDA",
+    tutorial: "-t7fuZ0KhDA",
   },
   {
     id: 4,
@@ -126,7 +126,7 @@ export const TuesdayWorkouts = [
     description: "Standing barbell curl",
     image:
       "https://barbend.com/wp-content/uploads/2019/02/BarBend-Feature-Image-1200-x-675-2020-11-16T182823.002.jpg",
-    tutorial: "https://www.youtube.com/watch?v=kwG2ipFRgfo",
+    tutorial: "kwG2ipFRgfo",
   },
   {
     id: 5,
@@ -137,7 +137,7 @@ export const TuesdayWorkouts = [
     description: "Standing barbell curl supersets",
     image:
       "https://www.mensjournal.com/wp-content/uploads/mf/1280-bicep-dumbbell-curl.jpg?quality=86&strip=all",
-    tutorial: "https://www.youtube.com/watch?v=ykJmrZ5v0Oo",
+    tutorial: "ykJmrZ5v0Oo",
   },
   {
     id: 6,
@@ -148,7 +148,7 @@ export const TuesdayWorkouts = [
     description: "Standing gym station rope pushdowns",
     image:
       "https://global-uploads.webflow.com/5fe33d036237252135e3e74d/6286464a6d6b59d369939d53_Man%20doing%20Rope%20Pushdown%20exercise.jpg",
-    tutorial: "https://www.youtube.com/watch?v=vB5OHsJ3EME",
+    tutorial: "vB5OHsJ3EME",
   },
   {
     id: 7,
@@ -159,7 +159,7 @@ export const TuesdayWorkouts = [
     description: "Box tricep dips",
     image:
       "https://scarysymptoms.com/wp-content/uploads/2016/10/DIP-Freepik.com_-scaled.jpg",
-    tutorial: "https://www.youtube.com/watch?v=0326dy_-CzM",
+    tutorial: "0326dy_-CzM",
   },
   {
     id: 8,
@@ -170,7 +170,7 @@ export const TuesdayWorkouts = [
     description: "Standing dumbell overhead tricep extension",
     image:
       "https://post.healthline.com/wp-content/uploads/2021/10/overhead-tricep-extension-dumbbell-1200x628-facebook-1200x628.jpg",
-    tutorial: "https://www.youtube.com/watch?v=-Vyt2QdsR7E",
+    tutorial: "-Vyt2QdsR7E",
   },
 ];
 export const WednesdayWorkouts = [
@@ -183,7 +183,7 @@ export const WednesdayWorkouts = [
     description: "Barbell back squats",
     image:
       "https://hips.hearstapps.com/hmg-prod/images/gettyimages-557941261-1528746090.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=640:*",
-    tutorial: "https://www.youtube.com/watch?v=3PRwtVpyslo",
+    tutorial: "3PRwtVpyslo",
   },
   {
     id: 2,
@@ -194,7 +194,7 @@ export const WednesdayWorkouts = [
     description: "Barbell back squats",
     image:
       "https://images.ctfassets.net/3s5io6mnxfqz/34Npc5PKLKJi6HIYvFw9XI/3e45754912cf266e7401cb8074c63239/AdobeStock_386146138_2.jpeg",
-    tutorial: "https://www.youtube.com/watch?v=3PRwtVpyslo",
+    tutorial: "3PRwtVpyslo",
   },
   {
     id: 3,
@@ -205,7 +205,7 @@ export const WednesdayWorkouts = [
     description: "Dumbbell lunges",
     image:
       "https://simplifaster.com/wp-content/uploads/2018/05/Split-Squat-Lunge.jpg",
-    tutorial: "https://www.youtube.com/watch?v=D7KaRcUTQeE",
+    tutorial: "D7KaRcUTQeE",
   },
   {
     id: 5,
@@ -215,7 +215,7 @@ export const WednesdayWorkouts = [
     reps: 15,
     description: "Elevated dumbbell squat",
     image: "https://i.ytimg.com/vi/xX_tEQcXPNs/maxresdefault.jpg",
-    tutorial: "https://www.youtube.com/watch?v=MFANqZ3_T90",
+    tutorial: "MFANqZ3_T90",
   },
   {
     id: 6,
@@ -226,7 +226,7 @@ export const WednesdayWorkouts = [
     description: "Leg extensions",
     image:
       "https://hips.hearstapps.com/hmg-prod/images/mh-young-man-exercising-legs-in-the-local-gym-royalty-free-image-867359800-1560457264.jpg",
-    tutorial: "youtube.com/watch?v=swZQC689o9U",
+    tutorial: "swZQC689o9U",
   },
   {
     id: 7,
@@ -237,7 +237,7 @@ export const WednesdayWorkouts = [
     description: "Lying hamstring curl",
     image:
       "https://cdn.shopify.com/s/files/1/1876/4703/files/Lying_Leg_Curl_1024x1024.png?v=1641843133",
-    tutorial: "https://www.youtube.com/watch?v=6y_GEg3YFC0",
+    tutorial: "6y_GEg3YFC0",
   },
   {
     id: 8,
@@ -248,7 +248,7 @@ export const WednesdayWorkouts = [
     description: "RDL",
     image:
       "https://www.muscleandfitness.com/wp-content/uploads/2017/12/man-deadlift-1.jpg?quality=86&strip=all",
-    tutorial: "https://www.youtube.com/watch?v=ytGaGIn3SjE",
+    tutorial: "ytGaGIn3SjE",
   },
   {
     id: 9,
@@ -259,7 +259,7 @@ export const WednesdayWorkouts = [
     description: "Standing calf raises",
     image:
       "https://cdn.shopify.com/s/files/1/1633/7705/articles/dumbbell_calf_exercises_2000x.jpg?v=1654116712",
-    tutorial: "https://www.youtube.com/watch?v=-M4-G8p8fmc",
+    tutorial: "-M4-G8p8fmc",
   },
 ];
 export const ThursdayWorkouts = [
@@ -272,7 +272,7 @@ export const ThursdayWorkouts = [
     description: "Heavyweight flat bench press",
     image:
       "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bench-press-spot-1571829590.jpg",
-    tutorial: "https://www.youtube.com/watch?v=gRVjAtPip0Y",
+    tutorial: "gRVjAtPip0Y",
   },
   {
     id: 2,
@@ -283,7 +283,7 @@ export const ThursdayWorkouts = [
     description: "Lightweight flat bench press",
     image:
       "https://media.istockphoto.com/photos/man-with-a-gray-cutoff-bench-pressing-picture-id185320654?k=20&m=185320654&s=612x612&w=0&h=BLD3BAOmBCJKOt5NFxCM-SnZQbgZE2DXoSyGt8MG3Ho=",
-    tutorial: "https://www.youtube.com/watch?v=gRVjAtPip0Y",
+    tutorial: "gRVjAtPip0Y",
   },
   {
     id: 3,
@@ -294,7 +294,7 @@ export const ThursdayWorkouts = [
     description: "Barbell upright row",
     image:
       "https://fitnessvolt.com/wp-content/uploads/2020/10/upright-rows1.jpg",
-    tutorial: "https://www.youtube.com/watch?v=jaAV-rD45I0",
+    tutorial: "jaAV-rD45I0",
   },
   {
     id: 4,
@@ -305,7 +305,7 @@ export const ThursdayWorkouts = [
     description: "Barbell overhand grip row",
     image:
       "https://i0.wp.com/thefitnessmaverick.com/wp-content/uploads/2020/10/F265CF38-5010-4DBF-BE3A-68C68A2A7E02_1_201_a-e1602589179813.jpeg?resize=930%2C612&ssl=1",
-    tutorial: "https://www.youtube.com/watch?v=FWJR5Ve8bnQ",
+    tutorial: "FWJR5Ve8bnQ",
   },
   {
     id: 5,
@@ -316,7 +316,7 @@ export const ThursdayWorkouts = [
     description: "Barbell underhand grip row",
     image:
       "https://www.muscleandfitness.com/wp-content/uploads/2018/06/800-barbellreversegriprow.jpg?w=800&h=731&crop=1&quality=86&strip=all",
-    tutorial: "https://www.youtube.com/watch?v=EAfGfuPEz-w",
+    tutorial: "EAfGfuPEz-w",
   },
   {
     id: 6,
@@ -327,7 +327,7 @@ export const ThursdayWorkouts = [
     description: "Lat pulldown",
     image:
       "https://www.thetreasuretales.com/wp-content/uploads/2021/05/close-grip-lat-pulldown.jpg",
-    tutorial: "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+    tutorial: "CAwf7n6Luuc",
   },
   {
     id: 7,
@@ -338,7 +338,7 @@ export const ThursdayWorkouts = [
     description: "Dumbbell pullover",
     image:
       "https://www.muscleandfitness.com/wp-content/uploads/2019/12/Muscular-Topless-Male-Performing-Lying-Dumbbell-Pullover-End-Position.jpg?quality=86&strip=all",
-    tutorial: "https://www.youtube.com/watch?v=5YStMv6m2g8",
+    tutorial: "5YStMv6m2g8",
   },
   {
     id: 8,
@@ -349,7 +349,7 @@ export const ThursdayWorkouts = [
     description: "Front plate raises",
     image:
       "https://i.pinimg.com/originals/db/2d/ce/db2dce2f26dc5dee3ce60dd4fdf84536.jpg",
-    tutorial: "https://www.youtube.com/watch?v=ucwIyWaGxAg",
+    tutorial: "ucwIyWaGxAg",
   },
   {
     id: 9,
@@ -360,7 +360,7 @@ export const ThursdayWorkouts = [
     description: "One-arm dumbbell row",
     image:
       "https://www.muscleandfitness.com/wp-content/uploads/2015/12/The-Rock-Dumbbell-Row.jpg?w=1200&h=630&crop=1&quality=80&strip=all",
-    tutorial: "https://www.youtube.com/watch?v=-koP10y1qZI",
+    tutorial: "-koP10y1qZI",
   },
 ];
 export const FridayWorkouts = [
@@ -373,7 +373,7 @@ export const FridayWorkouts = [
     description: "Heavyweight flat bench press",
     image:
       "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bench-press-spot-1571829590.jpg",
-    tutorial: "https://www.youtube.com/watch?v=gRVjAtPip0Y",
+    tutorial: "gRVjAtPip0Y",
   },
   {
     id: 2,
@@ -384,7 +384,7 @@ export const FridayWorkouts = [
     description: "Lightweight flat bench press",
     image:
       "https://media.istockphoto.com/photos/man-with-a-gray-cutoff-bench-pressing-picture-id185320654?k=20&m=185320654&s=612x612&w=0&h=BLD3BAOmBCJKOt5NFxCM-SnZQbgZE2DXoSyGt8MG3Ho=",
-    tutorial: "https://www.youtube.com/watch?v=gRVjAtPip0Y",
+    tutorial: "gRVjAtPip0Y",
   },
   {
     id: 3,
@@ -395,7 +395,7 @@ export const FridayWorkouts = [
     description: "Standing barbell curl supersets",
     image:
       "https://www.mensjournal.com/wp-content/uploads/mf/1280-bicep-dumbbell-curl.jpg?quality=86&strip=all",
-    tutorial: "https://www.youtube.com/watch?v=ykJmrZ5v0Oo",
+    tutorial: "ykJmrZ5v0Oo",
   },
   {
     id: 4,
@@ -406,7 +406,7 @@ export const FridayWorkouts = [
     description: "Standing gym station rope pushdowns",
     image:
       "https://global-uploads.webflow.com/5fe33d036237252135e3e74d/6286464a6d6b59d369939d53_Man%20doing%20Rope%20Pushdown%20exercise.jpg",
-    tutorial: "https://www.youtube.com/watch?v=vB5OHsJ3EME",
+    tutorial: "vB5OHsJ3EME",
   },
   {
     id: 5,
@@ -417,7 +417,7 @@ export const FridayWorkouts = [
     description: "Box tricep dips",
     image:
       "https://scarysymptoms.com/wp-content/uploads/2016/10/DIP-Freepik.com_-scaled.jpg",
-    tutorial: "https://www.youtube.com/watch?v=0326dy_-CzM",
+    tutorial: "0326dy_-CzM",
   },
   {
     id: 6,
@@ -428,7 +428,7 @@ export const FridayWorkouts = [
     description: "Leg extensions",
     image:
       "https://hips.hearstapps.com/hmg-prod/images/mh-young-man-exercising-legs-in-the-local-gym-royalty-free-image-867359800-1560457264.jpg",
-    tutorial: "youtube.com/watch?v=swZQC689o9U",
+    tutorial: "swZQC689o9U",
   },
   {
     id: 7,
@@ -439,7 +439,7 @@ export const FridayWorkouts = [
     description: "Lying hamstring curl",
     image:
       "https://cdn.shopify.com/s/files/1/1876/4703/files/Lying_Leg_Curl_1024x1024.png?v=1641843133",
-    tutorial: "https://www.youtube.com/watch?v=6y_GEg3YFC0",
+    tutorial: "6y_GEg3YFC0",
   },
   {
     id: 8,
@@ -450,7 +450,7 @@ export const FridayWorkouts = [
     description: "RDL",
     image:
       "https://www.muscleandfitness.com/wp-content/uploads/2017/12/man-deadlift-1.jpg?quality=86&strip=all",
-    tutorial: "https://www.youtube.com/watch?v=ytGaGIn3SjE",
+    tutorial: "ytGaGIn3SjE",
   },
 ];
 export const workouts = [
@@ -468,7 +468,7 @@ export const workouts = [
         description: "Heavyweight flat bench press",
         image:
           "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bench-press-spot-1571829590.jpg",
-        tutorial: "https://www.youtube.com/watch?v=gRVjAtPip0Y",
+        tutorial: "gRVjAtPip0Y",
       },
       {
         id: 2,
@@ -479,7 +479,7 @@ export const workouts = [
         description: "Lightweight flat bench press",
         image:
           "https://media.istockphoto.com/photos/man-with-a-gray-cutoff-bench-pressing-picture-id185320654?k=20&m=185320654&s=612x612&w=0&h=BLD3BAOmBCJKOt5NFxCM-SnZQbgZE2DXoSyGt8MG3Ho=",
-        tutorial: "https://www.youtube.com/watch?v=gRVjAtPip0Y",
+        tutorial: "gRVjAtPip0Y",
       },
       {
         id: 3,
@@ -490,7 +490,7 @@ export const workouts = [
         description: "Lightweight Inclined bench press (Highest Inclination)",
         image:
           "https://fitnessvolt.com/wp-content/uploads/2022/09/average-man-incline-bench-press-750x529.jpg",
-        tutorial: "https://www.youtube.com/watch?v=SrqOu55lrYU",
+        tutorial: "SrqOu55lrYU",
       },
       {
         id: 4,
@@ -501,7 +501,7 @@ export const workouts = [
         description: "Highest Inclined dumbbell press",
         image:
           "https://img.freepik.com/premium-photo/handsome-young-man-doing-dumbbell-incline-bench-press-workout-gym_600776-12463.jpg?w=2000",
-        tutorial: "https://www.youtube.com/watch?v=0G2_XV7slIg",
+        tutorial: "0G2_XV7slIg",
       },
       {
         id: 5,
@@ -513,7 +513,7 @@ export const workouts = [
           "Second-Highest Inclined dumbbell press (There are 4 Levels on the bench)",
         image:
           "https://img.freepik.com/premium-photo/handsome-young-man-doing-dumbbell-incline-bench-press-workout-gym_600776-12463.jpg?w=2000",
-        tutorial: "https://www.youtube.com/watch?v=0G2_XV7slIg",
+        tutorial: "0G2_XV7slIg",
       },
 
       {
@@ -526,7 +526,7 @@ export const workouts = [
           "Third-Highest Inclined dumbbell press (There are 4 Levels on the bench)",
         image:
           "https://img.freepik.com/premium-photo/handsome-young-man-doing-dumbbell-incline-bench-press-workout-gym_600776-12463.jpg?w=2000",
-        tutorial: "https://www.youtube.com/watch?v=0G2_XV7slIg",
+        tutorial: "0G2_XV7slIg",
       },
 
       {
@@ -539,7 +539,7 @@ export const workouts = [
         image:
           "https://hortonbarbell.com/wp-content/uploads/2022/06/DB-bench-press.png",
 
-        tutorial: "https://www.youtube.com/watch?v=VmB1G1K7v94",
+        tutorial: "VmB1G1K7v94",
       },
     ],
   },
@@ -557,7 +557,7 @@ export const workouts = [
         description: "Standing Shoulder Press",
         image:
           "https://cdn.shopify.com/s/files/1/1876/4703/articles/shutterstock_504909754_1000x.jpg?v=1636556759",
-        tutorial: "https://www.youtube.com/watch?v=2yjwXTZQDDI",
+        tutorial: "2yjwXTZQDDI",
       },
       {
         id: 2,
@@ -568,7 +568,7 @@ export const workouts = [
         description: "Standing dumbbell Side lateral raise",
         image:
           "https://gymsozluk.com/blogg/wp-content/uploads/2021/10/lateral-raise.jpg",
-        tutorial: "https://www.youtube.com/watch?v=3VcKaXpzqRo",
+        tutorial: "3VcKaXpzqRo",
       },
       {
         id: 3,
@@ -580,7 +580,7 @@ export const workouts = [
         image:
           "https://www.muscleandfitness.com/wp-content/uploads/2019/06/1109-Seated-Alternating-Dumbbell-Front-Raise.jpg?quality=86&strip=all",
 
-        tutorial: "youtube.com/watch?v=-t7fuZ0KhDA",
+        tutorial: "-t7fuZ0KhDA",
       },
       {
         id: 4,
@@ -591,7 +591,7 @@ export const workouts = [
         description: "Standing barbell curl",
         image:
           "https://barbend.com/wp-content/uploads/2019/02/BarBend-Feature-Image-1200-x-675-2020-11-16T182823.002.jpg",
-        tutorial: "https://www.youtube.com/watch?v=kwG2ipFRgfo",
+        tutorial: "kwG2ipFRgfo",
       },
       {
         id: 5,
@@ -602,7 +602,7 @@ export const workouts = [
         description: "Standing barbell curl supersets",
         image:
           "https://www.mensjournal.com/wp-content/uploads/mf/1280-bicep-dumbbell-curl.jpg?quality=86&strip=all",
-        tutorial: "https://www.youtube.com/watch?v=ykJmrZ5v0Oo",
+        tutorial: "ykJmrZ5v0Oo",
       },
       {
         id: 6,
@@ -613,7 +613,7 @@ export const workouts = [
         description: "Standing gym station rope pushdowns",
         image:
           "https://global-uploads.webflow.com/5fe33d036237252135e3e74d/6286464a6d6b59d369939d53_Man%20doing%20Rope%20Pushdown%20exercise.jpg",
-        tutorial: "https://www.youtube.com/watch?v=vB5OHsJ3EME",
+        tutorial: "vB5OHsJ3EME",
       },
       {
         id: 7,
@@ -624,7 +624,7 @@ export const workouts = [
         description: "Box tricep dips",
         image:
           "https://scarysymptoms.com/wp-content/uploads/2016/10/DIP-Freepik.com_-scaled.jpg",
-        tutorial: "https://www.youtube.com/watch?v=0326dy_-CzM",
+        tutorial: "0326dy_-CzM",
       },
       {
         id: 8,
@@ -635,7 +635,7 @@ export const workouts = [
         description: "Standing dumbell overhead tricep extension",
         image:
           "https://post.healthline.com/wp-content/uploads/2021/10/overhead-tricep-extension-dumbbell-1200x628-facebook-1200x628.jpg",
-        tutorial: "https://www.youtube.com/watch?v=-Vyt2QdsR7E",
+        tutorial: "-Vyt2QdsR7E",
       },
     ],
   },
@@ -653,7 +653,7 @@ export const workouts = [
         description: "Barbell back squats",
         image:
           "https://hips.hearstapps.com/hmg-prod/images/gettyimages-557941261-1528746090.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=640:*",
-        tutorial: "https://www.youtube.com/watch?v=3PRwtVpyslo",
+        tutorial: "3PRwtVpyslo",
       },
       {
         id: 2,
@@ -664,7 +664,7 @@ export const workouts = [
         description: "Barbell back squats",
         image:
           "https://images.ctfassets.net/3s5io6mnxfqz/34Npc5PKLKJi6HIYvFw9XI/3e45754912cf266e7401cb8074c63239/AdobeStock_386146138_2.jpeg",
-        tutorial: "https://www.youtube.com/watch?v=3PRwtVpyslo",
+        tutorial: "3PRwtVpyslo",
       },
       {
         id: 3,
@@ -675,7 +675,7 @@ export const workouts = [
         description: "Dumbbell lunges",
         image:
           "https://simplifaster.com/wp-content/uploads/2018/05/Split-Squat-Lunge.jpg",
-        tutorial: "https://www.youtube.com/watch?v=D7KaRcUTQeE",
+        tutorial: "D7KaRcUTQeE",
       },
       {
         id: 5,
@@ -685,7 +685,7 @@ export const workouts = [
         reps: 15,
         description: "Elevated dumbbell squat",
         image: "https://i.ytimg.com/vi/xX_tEQcXPNs/maxresdefault.jpg",
-        tutorial: "https://www.youtube.com/watch?v=MFANqZ3_T90",
+        tutorial: "MFANqZ3_T90",
       },
       {
         id: 6,
@@ -696,7 +696,7 @@ export const workouts = [
         description: "Leg extensions",
         image:
           "https://hips.hearstapps.com/hmg-prod/images/mh-young-man-exercising-legs-in-the-local-gym-royalty-free-image-867359800-1560457264.jpg",
-        tutorial: "youtube.com/watch?v=swZQC689o9U",
+        tutorial: "swZQC689o9U",
       },
       {
         id: 7,
@@ -707,7 +707,7 @@ export const workouts = [
         description: "Lying hamstring curl",
         image:
           "https://cdn.shopify.com/s/files/1/1876/4703/files/Lying_Leg_Curl_1024x1024.png?v=1641843133",
-        tutorial: "https://www.youtube.com/watch?v=6y_GEg3YFC0",
+        tutorial: "6y_GEg3YFC0",
       },
       {
         id: 8,
@@ -718,7 +718,7 @@ export const workouts = [
         description: "RDL",
         image:
           "https://www.muscleandfitness.com/wp-content/uploads/2017/12/man-deadlift-1.jpg?quality=86&strip=all",
-        tutorial: "https://www.youtube.com/watch?v=ytGaGIn3SjE",
+        tutorial: "ytGaGIn3SjE",
       },
       {
         id: 9,
@@ -729,7 +729,7 @@ export const workouts = [
         description: "Standing calf raises",
         image:
           "https://cdn.shopify.com/s/files/1/1633/7705/articles/dumbbell_calf_exercises_2000x.jpg?v=1654116712",
-        tutorial: "https://www.youtube.com/watch?v=-M4-G8p8fmc",
+        tutorial: "-M4-G8p8fmc",
       },
     ],
   },
@@ -747,7 +747,7 @@ export const workouts = [
         description: "Heavyweight flat bench press",
         image:
           "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bench-press-spot-1571829590.jpg",
-        tutorial: "https://www.youtube.com/watch?v=gRVjAtPip0Y",
+        tutorial: "gRVjAtPip0Y",
       },
       {
         id: 2,
@@ -758,7 +758,7 @@ export const workouts = [
         description: "Lightweight flat bench press",
         image:
           "https://media.istockphoto.com/photos/man-with-a-gray-cutoff-bench-pressing-picture-id185320654?k=20&m=185320654&s=612x612&w=0&h=BLD3BAOmBCJKOt5NFxCM-SnZQbgZE2DXoSyGt8MG3Ho=",
-        tutorial: "https://www.youtube.com/watch?v=gRVjAtPip0Y",
+        tutorial: "gRVjAtPip0Y",
       },
       {
         id: 3,
@@ -769,7 +769,7 @@ export const workouts = [
         description: "Barbell upright row",
         image:
           "https://fitnessvolt.com/wp-content/uploads/2020/10/upright-rows1.jpg",
-        tutorial: "https://www.youtube.com/watch?v=jaAV-rD45I0",
+        tutorial: "jaAV-rD45I0",
       },
       {
         id: 4,
@@ -780,7 +780,7 @@ export const workouts = [
         description: "Barbell overhand grip row",
         image:
           "https://i0.wp.com/thefitnessmaverick.com/wp-content/uploads/2020/10/F265CF38-5010-4DBF-BE3A-68C68A2A7E02_1_201_a-e1602589179813.jpeg?resize=930%2C612&ssl=1",
-        tutorial: "https://www.youtube.com/watch?v=FWJR5Ve8bnQ",
+        tutorial: "FWJR5Ve8bnQ",
       },
       {
         id: 5,
@@ -791,7 +791,7 @@ export const workouts = [
         description: "Barbell underhand grip row",
         image:
           "https://www.muscleandfitness.com/wp-content/uploads/2018/06/800-barbellreversegriprow.jpg?w=800&h=731&crop=1&quality=86&strip=all",
-        tutorial: "https://www.youtube.com/watch?v=EAfGfuPEz-w",
+        tutorial: "EAfGfuPEz-w",
       },
       {
         id: 6,
@@ -802,7 +802,7 @@ export const workouts = [
         description: "Lat pulldown",
         image:
           "https://www.thetreasuretales.com/wp-content/uploads/2021/05/close-grip-lat-pulldown.jpg",
-        tutorial: "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+        tutorial: "CAwf7n6Luuc",
       },
       {
         id: 7,
@@ -813,7 +813,7 @@ export const workouts = [
         description: "Dumbbell pullover",
         image:
           "https://www.muscleandfitness.com/wp-content/uploads/2019/12/Muscular-Topless-Male-Performing-Lying-Dumbbell-Pullover-End-Position.jpg?quality=86&strip=all",
-        tutorial: "https://www.youtube.com/watch?v=5YStMv6m2g8",
+        tutorial: "5YStMv6m2g8",
       },
       {
         id: 8,
@@ -824,7 +824,7 @@ export const workouts = [
         description: "Front plate raises",
         image:
           "https://i.pinimg.com/originals/db/2d/ce/db2dce2f26dc5dee3ce60dd4fdf84536.jpg",
-        tutorial: "https://www.youtube.com/watch?v=ucwIyWaGxAg",
+        tutorial: "ucwIyWaGxAg",
       },
       {
         id: 9,
@@ -835,7 +835,7 @@ export const workouts = [
         description: "One-arm dumbbell row",
         image:
           "https://www.muscleandfitness.com/wp-content/uploads/2015/12/The-Rock-Dumbbell-Row.jpg?w=1200&h=630&crop=1&quality=80&strip=all",
-        tutorial: "https://www.youtube.com/watch?v=-koP10y1qZI",
+        tutorial: "-koP10y1qZI",
       },
     ],
   },
@@ -853,7 +853,7 @@ export const workouts = [
         description: "Heavyweight flat bench press",
         image:
           "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bench-press-spot-1571829590.jpg",
-        tutorial: "https://www.youtube.com/watch?v=gRVjAtPip0Y",
+        tutorial: "gRVjAtPip0Y",
       },
       {
         id: 2,
@@ -864,7 +864,7 @@ export const workouts = [
         description: "Lightweight flat bench press",
         image:
           "https://media.istockphoto.com/photos/man-with-a-gray-cutoff-bench-pressing-picture-id185320654?k=20&m=185320654&s=612x612&w=0&h=BLD3BAOmBCJKOt5NFxCM-SnZQbgZE2DXoSyGt8MG3Ho=",
-        tutorial: "https://www.youtube.com/watch?v=gRVjAtPip0Y",
+        tutorial: "gRVjAtPip0Y",
       },
       {
         id: 3,
@@ -875,7 +875,7 @@ export const workouts = [
         description: "Standing barbell curl supersets",
         image:
           "https://www.mensjournal.com/wp-content/uploads/mf/1280-bicep-dumbbell-curl.jpg?quality=86&strip=all",
-        tutorial: "https://www.youtube.com/watch?v=ykJmrZ5v0Oo",
+        tutorial: "ykJmrZ5v0Oo",
       },
       {
         id: 4,
@@ -886,7 +886,7 @@ export const workouts = [
         description: "Standing gym station rope pushdowns",
         image:
           "https://global-uploads.webflow.com/5fe33d036237252135e3e74d/6286464a6d6b59d369939d53_Man%20doing%20Rope%20Pushdown%20exercise.jpg",
-        tutorial: "https://www.youtube.com/watch?v=vB5OHsJ3EME",
+        tutorial: "vB5OHsJ3EME",
       },
       {
         id: 5,
@@ -897,7 +897,7 @@ export const workouts = [
         description: "Box tricep dips",
         image:
           "https://scarysymptoms.com/wp-content/uploads/2016/10/DIP-Freepik.com_-scaled.jpg",
-        tutorial: "https://www.youtube.com/watch?v=0326dy_-CzM",
+        tutorial: "0326dy_-CzM",
       },
       {
         id: 6,
@@ -908,7 +908,7 @@ export const workouts = [
         description: "Leg extensions",
         image:
           "https://hips.hearstapps.com/hmg-prod/images/mh-young-man-exercising-legs-in-the-local-gym-royalty-free-image-867359800-1560457264.jpg",
-        tutorial: "youtube.com/watch?v=swZQC689o9U",
+        tutorial: "swZQC689o9U",
       },
       {
         id: 7,
@@ -919,7 +919,7 @@ export const workouts = [
         description: "Lying hamstring curl",
         image:
           "https://cdn.shopify.com/s/files/1/1876/4703/files/Lying_Leg_Curl_1024x1024.png?v=1641843133",
-        tutorial: "https://www.youtube.com/watch?v=6y_GEg3YFC0",
+        tutorial: "6y_GEg3YFC0",
       },
       {
         id: 8,
@@ -930,7 +930,7 @@ export const workouts = [
         description: "RDL",
         image:
           "https://www.muscleandfitness.com/wp-content/uploads/2017/12/man-deadlift-1.jpg?quality=86&strip=all",
-        tutorial: "https://www.youtube.com/watch?v=ytGaGIn3SjE",
+        tutorial: "ytGaGIn3SjE",
       },
     ],
   },

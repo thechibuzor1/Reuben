@@ -7,14 +7,7 @@ import {
   View,
 } from "react-native";
 import React from "react";
-import {
-  FridayWorkouts,
-  MondayWorkouts,
-  ThursdayWorkouts,
-  TuesdayWorkouts,
-  WednesdayWorkouts,
-  workouts,
-} from "../data";
+import { workouts } from "../data";
 
 const Blocks = ({ navigation }) => {
   return (
@@ -24,7 +17,7 @@ const Blocks = ({ navigation }) => {
         <TouchableOpacity
           style={{ alignItems: "center" }}
           key={index}
-          activeOpacity={0.8}
+          activeOpacity={0.9}
           onPress={() =>
             navigation.navigate("Workout", {
               workout: item,
@@ -56,10 +49,10 @@ export default Blocks;
 
 const styles = StyleSheet.create({
   container: {
-    height: 200,
-    width: 150,
-    marginLeft: 10,
+    height: 300,
+    width: 250,
     marginTop: 15,
+    marginHorizontal: 5,
   },
   info: {
     position: "absolute",
